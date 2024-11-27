@@ -35,6 +35,6 @@ Continuar desarrollándome en las áreas de **control de gestión**, **business 
 <!--
 **dayanajgp/dayanajgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 📫 **Conecta conmigo**  
-- ✉️ **Correo**: [dayana.jgp@gmail.com](mailto:josseirysgp@gmail.com)  
-- 💼 **LinkedIn**: [Dayana González](https://www.linkedin.com/in/dayanagonzalez-contador-control-de-gestion-business-intelligence-analisis-de-datos/)  
+- ✉️ **Correo**: [correo@gmail.com](mailto:josseirysgp@gmail.com)  
+- 💼 **LinkedIn**: [Nombre y Apellido](https://www.linkedin.com/in/direccion/)  
 -->
