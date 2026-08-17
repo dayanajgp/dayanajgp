@@ -1,7 +1,12 @@
 # 👋 Hola, soy Dayana González
 
 ### Especialista en Automatización de Procesos y Análisis de Datos
-´Digital Transformation & Automation Specialist´ | ´Power Platform´ | ´Product Management´ | ´Data & Business Solutions´
+
+![Digital Transformation](https://img.shields.io/badge/Digital%20Transformation-5B5BFF?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-00A67E?style=for-the-badge)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge)
+![Product](https://img.shields.io/badge/Product-FFB000?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data-2F80ED?style=for-the-badge)
 
 Soy **Contadora**, diplomada en **Control de Gestión**, actualmente con foco en **negocio, datos, automatización y tecnología**.
 
