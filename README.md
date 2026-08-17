@@ -1,40 +1,98 @@
-# 👋 ¡Hola! Soy Dayana González
+# 👋 Hola, soy Dayana González
 
-### 🌟 **Especialista en Datos y Control de Gestión**  
-Instructora de Excel • Google Sheets • Looker Studio | Microsoft Office Specialist: Excel Expert  
+### Especialista en Automatización de Procesos y Análisis de Datos
+´Digital Transformation & Automation Specialist´ | ´Power Platform´ | ´Product Management´ | ´Data & Business Solutions´
 
----
+Soy **Contadora**, diplomada en **Control de Gestión**, actualmente con foco en **negocio, datos, automatización y tecnología**.
 
-## 📋 **Sobre mí**  
-Soy Contadora Auditor y diplomada en Control de Gestión, con experiencia en análisis de datos, inteligencia de negocios y automatización de procesos en diversas herramientas.
-Actualmente estoy haciendo un bootcamp de Desarrollo Full Stack JavaScript.
+Trabajo en **automatización de procesos de RRHH y Compensaciones**, diseñando soluciones que permiten estandarizar procesos, reducir tareas manuales y mejorar la calidad de la información para la toma de decisiones.
 
-Mi trayectoria abarca:  
-- Diseño y automatización de reportes estratégicos, tácticos y operativos.  
-- Desarrollo de indicadores para la toma de decisiones basados en el Balanced Scorecard.  
-- Optimización de procesos de control de gestión y flujos financieros, logrando importantes ahorros y eficiencia en tiempos de operación.  
-- Capacitación y transferencia de conocimientos en herramientas de análisis de datos y control de gestión.  
+Actualmente también estoy desarrollando mis habilidades en **Full Stack JavaScript** como complemento a mi perfil.
 
 ---
 
-## 🛠️ **Habilidades Técnicas**  
-- **Business Intelligence**: Power BI, Tableau, Looker Studio, Excel, Google Sheets.
-- **Bases de datos**: MySQL, BigQuery, PosgreSQL.  
-- **Automatización**: Python, VBA, Microsoft Power Apps, Power Automate, AppSheet.
-- **Otros**: Bizagi, Draw.io, Sharepoint, Odoo, SAP.
+## 🚀 Qué me mueve
+
+Me interesa transformar problemas de negocio en **soluciones tecnológicas simples, escalables y útiles para las personas que las utilizan**.
+
+Mi foco profesional está evolucionando hacia un perfil que combine:
+
+- Automatización de procesos y transformación digital.
+- Desarrollo de aplicaciones y productos digitales.
+- Datos, analítica y Business Intelligence.
+- Product Management e innovación.
+- Optimización de procesos de RRHH y Compensaciones.
+- Emprendimiento y creación de soluciones SaaS para empresas.
 
 ---
 
-## 🎯 **Objetivo Profesional**  
-Continuar desarrollándome en las áreas de **control de gestión**, **business intelligence**, **análisis de datos** y **automatización**, aportando conocimientos y habilidades para potenciar la toma de decisiones estratégicas en empresas.  
+## 🛠️ Tecnologías y herramientas
+
+### Desarrollo
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+- Visual Studio Code
+
+### Automatización & Low Code
+- Microsoft Power Apps
+- Power Automate
+- Office Scripts / TypeScript
+- SharePoint
+- AppSheet
+- VBA
+
+### Datos & Business Intelligence
+- Excel
+- Power BI
+- Looker Studio
+- Tableau
+- MySQL
+- PostgreSQL
+- BigQuery
+
+### Procesos & Gestión
+- Diseño y optimización de procesos
+- Automatización de workflows
+- Indicadores y control de gestión
+- Balanced Scorecard
+- Análisis y modelamiento de datos
 
 ---
 
-¡Estoy abierta a colaboraciones en proyectos de análisis de datos, inteligencia de negocios y automatización! 🚀  
+## 💡 Actualmente estoy construyendo
 
-<!--
-**dayanajgp/dayanajgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## 📫 **Conecta conmigo**  
-- ✉️ **Correo**: [correo@gmail.com](mailto:josseirysgp@gmail.com)  
-- 💼 **LinkedIn**: [Nombre y Apellido](https://www.linkedin.com/in/direccion/)  
--->
+Estoy explorando y desarrollando proyectos que combinan **tecnología, automatización y gestión de personas**, con especial interés en soluciones para empresas.
+
+Mi objetivo a largo plazo es crear **productos tecnológicos propios**, especialmente soluciones B2B capaces de resolver problemas reales en diversas áreas.
+
+Este GitHub es y será parte de este proceso: un espacio para documentar lo que aprendo, experimentar con nuevas tecnologías y construir proyectos que conecten **negocio + datos + tecnología**.
+
+---
+
+## 🎯 Mi evolución profesional
+
+**Contabilidad → Control de Gestión → Datos & BI → Automatización → Producto & Emprendimiento**
+
+Estoy construyendo un perfil híbrido entre **negocio y tecnología**, con la capacidad de entender un problema desde la perspectiva del usuario y del negocio, y llevarlo hasta una solución tecnológica.
+
+---
+
+## 📂 En este GitHub
+
+Aquí encontrarás proyectos relacionados con:
+
+- JavaScript y desarrollo Full Stack.
+- Automatización de procesos.
+- Análisis y visualización de datos.
+- Aplicaciones y herramientas para resolver problemas de negocio.
+- Experimentos y proyectos personales.
+
+---
+
+## 🌎 Conecta conmigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💻 [GitHub](https://github.com/dayanajgp)
