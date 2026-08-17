@@ -99,5 +99,5 @@ Aquí encontrarás proyectos relacionados con:
 
 ## 🌎 Conecta conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dayanagonzalez-contador-control-de-gestion-business-intelligence-analisis-de-datos/)
 - 💻 [GitHub](https://github.com/dayanajgp)
